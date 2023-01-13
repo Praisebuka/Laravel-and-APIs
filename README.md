@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About this application 
+
+This repository is all about working with a laravel application and making use of a API which is different from that of sanctum, it basically makes a CRUD request and also makes navigations on the application once you add the required views or layout section....I made use of various controllers including making of new ones using GIT-BASH, I tested out this application using POSTMAN so you might want to also use it if you don't want to add the needed views in the application.
+Lastly, you can get Postman here--> <a href="https://www.postman.com">click-here </a> <--- 
+
+You can simply get this application by either cloning, using git bash or CLI or any means you wish to use.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
